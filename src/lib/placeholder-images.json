@@ -1,0 +1,10 @@
+{
+  "placeholderImages": [
+    {
+      "id": "video-stream",
+      "description": "A futuristic cityscape video feed.",
+      "imageUrl": "https://images.unsplash.com/photo-1470217957101-da7150b9b681?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxmdXR1cmlzdGljJTIwY2l0eXxlbnwwfHx8fDE3NjU0MzM2MzJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "futuristic city"
+    }
+  ]
+}
